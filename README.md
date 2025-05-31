@@ -30,6 +30,7 @@ Caso ainda não tenha habilitado o seu servidor como comunidade, vá para as con
 Agora, crie um fórum para o canal de dúvidas.
 
 ![o](CriarForum1.png)
+
 ![i](CriarForum2.png)
 
 ## Utilize o comando para definir o canal de dúvidas
