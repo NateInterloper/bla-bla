@@ -6,7 +6,9 @@ Clique neste [link](https://discord.com/oauth2/authorize?client_id=1345088049192
 ## Crie um cargo de administrador
 
 Caso ainda não tenha, crie um cargo para aqueles que serão os administradores do seu servidor. Você pode fazer isso primeiro acessando as configurações do seu servidor.
+
 ![oi](configserver.png)
+
 Após isso, vá em **Cargos** e clique em **Criar cargo**. Dê o nome "Admin" ou que preferir, vá em **Permissões**, digite "adm" na barra de pesquisa, a permissão de **Administrador** vai aparecer, confirme ela. Vá em **Gerenciar Membros** e adicione os membros que se tornarão administradores. Antes de sair, não esqueça de clicar em **Salvar alterações**!
 
 ## Utilize o comando para definir o cargo (Adm)
