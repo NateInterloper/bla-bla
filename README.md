@@ -28,8 +28,9 @@ Mesmo processo que o cargo de Administrador. Mas dessa vez você escolherá o co
 Caso ainda não tenha habilitado o seu servidor como comunidade, vá para as configurações do seu servidor novamente. Vá em **Habilitar comunidade** e clique em **Começar agora**. Habilite o "Nível De Verificação" e "Filtro De Conteúdo De Mídia Explícita" e clique em **Próximo**. Defina o seus canais de regras e atualizações, ou deixe o Discord criá-los para você, **Próximo**. Clique em **Concordo e entendo**, e depois em **Terminar configuração**.
 
 Agora, crie um fórum para o canal de dúvidas.
-![[Captura de tela 2025-05-31 123444.png]]
-![[Captura de tela 2025-05-31 123336.png]]
+
+![oi](Captura de tela 2025-05-31 123444.png)
+![oi](Captura de tela 2025-05-31 123336.png)
 
 ## Utilize o comando para definir o canal de dúvidas
 
