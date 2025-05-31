@@ -29,8 +29,9 @@ Caso ainda não tenha habilitado o seu servidor como comunidade, vá para as con
 
 Agora, crie um fórum para o canal de dúvidas.
 
-![oi](Captura de tela 2025-05-31 123444.png)
-![oi](Captura de tela 2025-05-31 123336.png)
+![o](Captura de tela 2025-05-31 123444.png)
+
+![i](Captura de tela 2025-05-31 123336.png)
 
 ## Utilize o comando para definir o canal de dúvidas
 
