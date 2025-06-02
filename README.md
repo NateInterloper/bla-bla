@@ -39,3 +39,17 @@ Mesmo processo que o cargos. Mas dessa vez você escolherá o comando `/configur
 
 ## Crie a tag de resolvido
 
+Crie uma tag para marcar as threads (dúvidas) que já foram resolvidas. Vá nas configurações do fórum, depois em Tags, clique no sinal de mais '+', dê um nome pra sua tag 'Resolvido' e um emoji se quiser '✅'.
+
+## Utilize o comando para definir a tag de resolvido
+
+Mesmo processo de sempre. Dessa vez, o comando `/configurar tag_de_resolvido` e a tag '✅Resolvido'.
+
+## Utilize o comando para definir o início do semestre
+
+Use o comando `/configurar inicio_de_semestre` para definir qual é o semestre atual e quando ele começa. Dê o número do semestre (1 ou 2), o dia e o mês.
+
+## Cheque as configurações
+
+Use o comando `/configurar ver_configuracoes` para ver se todas as configurações estão corretas. Se elas se parecem como a imagem a seguir, tudo deu certo. Seu bot está configurado.
+
