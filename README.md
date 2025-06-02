@@ -53,3 +53,4 @@ Use o comando `/configurar inicio_de_semestre` para definir qual é o semestre a
 
 Use o comando `/configurar ver_configuracoes` para ver se todas as configurações estão corretas. Se elas se parecem como a imagem a seguir, tudo deu certo. Seu bot está configurado.
 
+![u](configs_check.png)
