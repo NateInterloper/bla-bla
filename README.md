@@ -37,9 +37,9 @@ Agora, crie um fórum para o canal de dúvidas.
 
 Mesmo processo que o cargos. Mas dessa vez você escolherá o comando `/configurar canal_do_forum` e depois o canal de fórum.
 
-## Crie a tag de resolvido
+## Crie as tags
 
-Crie uma tag para marcar as threads (dúvidas) que já foram resolvidas. Vá nas configurações do fórum, depois em Tags, clique no sinal de mais '+', dê um nome pra sua tag 'Resolvido' e um emoji se quiser '✅'.
+Crie as tags para marcar as threads (dúvidas). Vá nas configurações do fórum, depois em Tags, clique no sinal de mais '+', adicione tags para cada uma das matérias do curso. Também crie a tag 'Resolvido' para as dúvidas já resolvidas, use também emojis se quiser.
 
 ## Utilize o comando para definir a tag de resolvido
 
